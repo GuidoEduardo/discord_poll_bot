@@ -23,9 +23,13 @@ Através do link: https://discordpy.readthedocs.io
 
 ## Como utilizar
 É necessário executar o comando do seguinte modo:
-`v <pergunta> <opção1> <opção2> ...` Ao máximo 10 opções
+
+`v <pergunta> <opção1> <opção2> ...` 
+
+Ao máximo 10 opções
 
 Por exemplo:
+
 ![choices](https://user-images.githubusercontent.com/30846081/116840482-67417600-abac-11eb-8024-ebc7acd020f9.png)
 
 As reações servem como valores para realizar a votação.
