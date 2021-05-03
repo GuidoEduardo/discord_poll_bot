@@ -26,7 +26,9 @@ Através do link: https://discordpy.readthedocs.io
 
 `v <pergunta> <opção1> <opção2> ...` 
 
-Ao máximo 10 opções
+Ao máximo 10 opções.
+
+Caso necessário a criação de itens com espaços vazios, utilizar o caractere "" para fechar o item.
 
 Por exemplo:
 
