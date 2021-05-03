@@ -35,8 +35,8 @@ def percent_calc(current, total):
 
     progress = ''
 
-    for i in range(1, 10):
-        if i <= number_active_square:
+    for i in range(0, 10):
+        if i < number_active_square or number_active_square == 10:
             progress += '🟩'
         else:
             progress += '⬛'
